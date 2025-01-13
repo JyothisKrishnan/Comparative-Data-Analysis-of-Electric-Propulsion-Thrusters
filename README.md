@@ -12,8 +12,10 @@ The selection of an appropriate electric propulsion thruster for a specific spac
 4. Provide recommendations for thruster selection based on mission profiles.
 
 # Key files
-You can view the detailed classification and types of thrusters in the following [Classification and Types of Thrusters](./Classification%20and%20types%20of%20Thrusters.pdf)
-[Comparative Power BI analysys dashboard]
+[Classification and Types of Thrusters](./Classification%20and%20types%20of%20Thrusters.pdf).
+
+[Comparative Power BI analysys dashboard](./Comparative%20Data%20Analysis-%20of%20Electric%20Propulsion%20Thrusters)
+
 
 
 # Sources
