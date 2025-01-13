@@ -14,7 +14,7 @@ The selection of an appropriate electric propulsion thruster for a specific spac
 # Key files
 [Classification and Types of Thrusters](./Classification%20and%20types%20of%20Thrusters.pdf).
 
-[Comparative Power BI analysys dashboard](./Comparative%20Data%20Analysis-%20of%20Electric%20Propulsion%20Thrusters)
+[Comparative Power BI analysys dashboard](./Comparative%20Data%20Analysis%20of%20Electric%20Propulsion%20Thrusters)
 
 
 
