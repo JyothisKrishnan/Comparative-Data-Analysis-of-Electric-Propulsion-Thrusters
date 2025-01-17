@@ -1,4 +1,4 @@
-# Comparative-Data-Analysis-of-Electric-Propulsion-Thrusters
+# Comparative Data Analysis of Electric Propulsion Thrusters
 # Overview
 This project aims to perform a comprehensive comparison of six electric propulsion thrusters for space applications. By analyzing and visualizing key performance metrics, the project provides insights into the strengths, limitations, and trade-offs of different thruster technologies, aiding in their selection for mission-specific requirements.
 
